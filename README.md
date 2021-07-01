@@ -1,5 +1,28 @@
 ### Hi there 👋
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Polycarpo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/felipe-polycarpo-marcondes/)](https://www.linkedin.com/in/https://www.linkedin.com/in/felipe-polycarpo-marcondes/) 
+[![Gmail Badge](https://img.shields.io/badge/-felipe.polycarpo.marcondes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.polycarpo.marcondes@gmail.com)](mailto:felipe.polycarpo.marcondes@gmail.com)
 <!--
 **fpolycarpo/fpolycarpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
