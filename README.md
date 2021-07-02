@@ -2,7 +2,7 @@
 
 ## I'm Felipe
 <div align="center">
-<img src="https://user-images.githubusercontent.com/86786820/124285438-4baf0900-db24-11eb-81af-579cb7de5075.jpg" width="500px"/>
+<img src="https://user-images.githubusercontent.com/86786820/124285922-cd069b80-db24-11eb-8e3d-5e4ae00e902a.jpg" width="500px"/>
 </div>
 
 
