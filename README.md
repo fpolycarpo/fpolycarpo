@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/felipe-polycarpo-marcondes/)](https://www.https://www.linkedin.com/in/felipe-polycarpo-marcondes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-polycarpo-marcondes/)](https://www.linkedin.com/in/felipe-polycarpo-marcondes/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_552198893965&text=Olá!)](https://api.whatsapp.com/send?phone=seu_telefone_5521988939651&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.polycarpo.marcondes@gmail.com)](mailto:felipe.polycarpo.marcondes@gmail.com)
 </div> 
