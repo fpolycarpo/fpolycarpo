@@ -20,7 +20,7 @@
 * 👨‍👩‍👧 Giovana's daddy;<br>
 * 🏈NFL lover;<br>
 * 💪🏼 Working on professional growth and developing new skills;<br>
-* 🛠 I like to fix things in the house.
+* 🛠 Fix things.
   </div>
 
 ### Skills ♟
