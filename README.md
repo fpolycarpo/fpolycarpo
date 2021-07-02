@@ -37,3 +37,4 @@
 * Angular;<br>
 * MySQL;<br>
 * Agile methodologies: Scrum and Kanban.
+
